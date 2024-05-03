@@ -4,6 +4,11 @@
 
 [![Backers on Open Collective](https://opencollective.com/openemr/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/openemr/sponsors/badge.svg)](#sponsors)
 
+# Sigellac fork of OpenEMR
+Since we are proofing things using OpenEMR, we host a fork in the org repo
+
+This allows us to make changes to platform specific files to suit our needs, while still recieving updates via the OpenEMR foundation
+
 # OpenEMR
 
 [OpenEMR](https://open-emr.org) is a Free and Open Source electronic health records and medical practice management application. It features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and a whole lot more. It runs on Windows, Linux, Mac OS X, and many other platforms.
